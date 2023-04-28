@@ -5,9 +5,12 @@ Learnzy is a web-based platform that provides educational content and resources 
 
 Features
 The Education Platform Website has the following features:
+
 Learn:
 In this, student can get educational content and resources and they can learn it from our platform.
+
 Practice:
 In this, student can get educational resources for their practical knowledge of subject and they can practice it on our platform.
+
 Compete:
 in this, student can know that how much knowledge they have by giving individual quiz of subject and they can know that how long should i focus on these subjects.
