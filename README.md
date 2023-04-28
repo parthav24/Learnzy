@@ -1,4 +1,5 @@
-Learnzy - An educational platform. Which helps to learner to learn something new related to computer engineering then they can practice on various platform through our platform and they can also give quiz to know that how are they at their subjects.
+Learnzy - An educational platform.
+Which helps to learner to learn something new related to computer engineering then they can practice on various platform through our platform and they can also give quiz to know that how are they at their subjects.
 
 Learnzy
 Learnzy is a web-based platform that provides educational content and resources for students and educators. The platform is designed to be user-friendly and easy to navigate, and offers a wide range of features for both students and educators.
